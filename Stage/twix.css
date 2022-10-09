@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    background-attachment:fixed;
+}
+
+.size{
+ margin-top: -450px;
+ margin-left: 1200px;
+ 
+}
+
+.op{
+    margin-top: 40px;
+    margin-left: 400px;
+    letter-spacing: 1px;
+    background-attachment: fixed;
+    /* padding-top: 2px; */
+
+    font-weight:lighter;
+    
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.set{
+    margin-left: 20px;
+    text-align: left;
+    margin-top: -470px;
+    margin-bottom: 500px;
+}
+
+.pa{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+}
+
+.set{
+    padding-top: 5px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    
+    
+    
+}
+.set{
+    /* background-color: rgba(170, 160, 160, 0.247); */
+    background-image: url("blurry.jpg");
+    background-size: cover;
+    background-position: left;
+    background-attachment: fixed;
+    margin-right: 1150px;
+    margin-left: -5px;
+    /* margin-top: -5px; */
+    margin-bottom: 100px;
+}
+
+.input{
+    padding-top:  5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 200px;
+
+    
+    border-radius: 3px;
+}
